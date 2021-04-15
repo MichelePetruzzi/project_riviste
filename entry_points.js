@@ -11,6 +11,7 @@ const fs = require('fs');
 
 const obj = {
 	index: path.join(path.resolve(__dirname, 'src/js'), 'index.js'),
+	
 }
 
 module.exports = obj
