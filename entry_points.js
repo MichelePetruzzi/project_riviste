@@ -15,6 +15,8 @@ const obj = {
 	css: path.join(path.resolve(__dirname). 'src/css'), 'palette.css'),
 	css: path.join(path.resolve(__dirname). 'src/css'), 'spacing.css'),
 	css: path.join(path.resolve(__dirname). 'src/css'), 'tipography.css'),
+	img: path.join(path.resolve(__dirname). 'src/img'),
+	
 }
 
 module.exports = obj
