@@ -11,7 +11,10 @@ const fs = require('fs');
 
 const obj = {
 	index: path.join(path.resolve(__dirname, 'src/js'), 'index.js'),
-	
+	css: path.join(path.resolve(__dirname). 'src/css'), 'colors.css'),
+	css: path.join(path.resolve(__dirname). 'src/css'), 'palette.css'),
+	css: path.join(path.resolve(__dirname). 'src/css'), 'spacing.css'),
+	css: path.join(path.resolve(__dirname). 'src/css'), 'tipography.css'),
 }
 
 module.exports = obj
